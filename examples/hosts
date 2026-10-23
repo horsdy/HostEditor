@@ -1,0 +1,9 @@
+# HostEditor 示例 — 仅用于编辑和保存验证
+# 系统不会自动使用此文件
+
+127.0.0.1 localhost local.example
+::1 localhost
+
+# 开发环境
+192.0.2.10 api.example.test admin.example.test
+2001:db8::10 ipv6.example.test # IPv6 与行尾注释
